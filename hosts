@@ -1,0 +1,2 @@
+[galaxyservers]
+galaxy-dev.vm.au ansible_connection=local ansible_user=darrenc
